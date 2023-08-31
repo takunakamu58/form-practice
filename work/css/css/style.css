@@ -20,7 +20,7 @@ input, select, label{
 }
 
 .page-title {
-  padding: 60px;
+  padding-top: 60px;
   font-size: 28px;
   text-align: center;
 }
@@ -87,7 +87,7 @@ input, select, label{
   width: 5px;
   height: 5px;
   right: 10px;
-  top:45px;
+  top:50%;
   display: inline-block;
   border-bottom: 2px solid #c3c3c3;
   border-right: 2px solid #c3c3c3;
